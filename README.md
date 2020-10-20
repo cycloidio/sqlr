@@ -1,7 +1,8 @@
 # SQLR
 
-Defines a default set of Interfaces to work with the default [database/sql](https://golang.org/pkg/database/sql/).
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/cycloidio/sqlr)](https://pkg.go.dev/github.com/cycloidio/sqlr)
 
+Defines a default set of Interfaces to work with the default [database/sql](https://golang.org/pkg/database/sql/).
 
 ## Querier
 
